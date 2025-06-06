@@ -1,4 +1,3 @@
-# Packer demo
 name: Packer Build
 
 on:
