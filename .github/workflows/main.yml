@@ -1,3 +1,4 @@
+# Packer AMI Automation
 name: Packer Build
 
 on:
